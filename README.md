@@ -1,0 +1,2 @@
+# cloningtest
+cloning example
